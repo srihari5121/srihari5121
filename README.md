@@ -1,9 +1,6 @@
-- 👋 Hi, I’m @srihari5121
-- 👀 I’m interested in writing stories
-- 🌱 I’m currently learning css,html,javascript
+👋 I'm Sri Hari S.S., an ECE student passionate about web development, story writing, poster designing, and IoT.  
 
+💻 I’ve worked on projects like a patented Online Food and Table Reservation System.  
 
-<!---
-srihari5121/srihari5121 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎯 Aspiring to be a Full Stack Web Developer.
+
