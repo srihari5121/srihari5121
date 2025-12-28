@@ -1,6 +1,6 @@
-👋 I'm Sri Hari S.S., an ECE student passionate about web development, story writing, poster designing, and IoT.  
-
-💻 I’ve worked on projects like a patented Online Food and Table Reservation System.  
-
-🎯 Aspiring to be a Full Stack Web Developer.
-
+🎓 Electronics and Communication Engineering Undergraduate
+💻 Hands-on experience in Python programming, UI/UX design, and IoT projects
+🚀 Built user-centered digital solutions, including a patented online food & table reservation system
+📄 IEEE-published project on IoT-based food redistribution
+🧠 Strong in problem-solving, teamwork, and continuous learning
+🌱 Passionate about building practical software solutions with real-world impact
